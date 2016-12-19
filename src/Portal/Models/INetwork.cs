@@ -1,7 +1,6 @@
-﻿using WindowsServicePortal.Models;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 
-namespace WindowsServicePortal
+namespace Gilmond.WindowsService.Portal.Models
 {
 	public interface INetwork
 	{

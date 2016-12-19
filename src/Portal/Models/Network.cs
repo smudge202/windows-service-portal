@@ -1,11 +1,11 @@
-﻿using Microsoft.Extensions.Options;
-using System;
+﻿using System;
 using System.Collections.Concurrent;
 using System.Collections.Generic;
 using System.Linq;
 using System.ServiceProcess;
+using Microsoft.Extensions.Options;
 
-namespace WindowsServicePortal.Models
+namespace Gilmond.WindowsService.Portal.Models
 {
 	public class Network : INetwork
 	{
